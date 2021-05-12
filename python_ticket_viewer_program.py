@@ -1,3 +1,4 @@
+#MEZ - YOU NEED TO RESOLVE THE CREDENTIALS ISSUE BEFORE GOING PUBLIC WITH THIS REPO
 #install requests library for HTTP requests 
 #pip3 install requests
 
