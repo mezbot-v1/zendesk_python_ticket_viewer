@@ -22,5 +22,5 @@ The program allows you to:
 ✔️ Page through tickets when more than 25 are returned 
 
 You can also:
-✔️ Request the details for an individual ticket*
+✔️ Request the details for an individual ticket
 
